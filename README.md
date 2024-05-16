@@ -49,8 +49,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gultreen-naj&show_icons=true&locale=en&layout=compact" alt="gultreen-naj" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gultreen-naj&show_icons=true&locale=en" alt="gultreen-naj" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gultreen-Naj&show_icons=true&locale=en&layout=compact" alt="Gultreen-Naj" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Gultreen-Naj&show_icons=true&locale=en" alt="Gultreen-Naj" /></td>
   </tr>
 </table>
 
